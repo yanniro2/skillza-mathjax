@@ -7,7 +7,7 @@ Render Mathjax content in React Native Webview with auto height adjustment.
 # Installation
 
 1. `yarn add skillza-mathjax` or `npm install skillza-mathjax --save`
-2. Install  [react-native-webview](https://www.npmjs.com/package/react-native-webview)
+2. Install  [skillza-mathjax](https://www.npmjs.com/package/react-native-webview)
 
 # Usage
 
